@@ -1,4 +1,4 @@
-## Hi all
+## Hi all!!
 
 - 🧐 I’m interested in Full-Stack development framework and libraries
 - 🚀  I’m currently learning React, JavaScript, TypeScript
