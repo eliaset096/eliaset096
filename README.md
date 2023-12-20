@@ -1,7 +1,7 @@
 ## Hi!!
 
-- 🧐 I’m interested in Full-Stack development frameworks and libraries
-- 🚀  I’m currently learning React, JavaScript, TypeScript
+- 🧐 I’m interested in Full-Stack development.
+- 🚀  I’m currently learning React, JavaScript, TypeScript.
 
 
 
