@@ -18,11 +18,6 @@ Welcome to my GitHub profile! I'm passionate about software development and tech
 - ⚙️ Git
 
 
-## Featured Projects
-
-
-- ✈️ [Airport Screen](https://github.com/eliaset096/airport-screen): A desktop app to view your flights.
-
 
 ## Contact
 
