@@ -22,8 +22,10 @@ Welcome to my GitHub profile! I'm passionate about software development and tech
 
 Feel free to contact me!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/elias-estupi%C3%B1an/)
-- 📧 [Email](mailto:eliaset096@gmail.com)
+[![Linkedin: eliaset096](https://img.shields.io/badge/-eliaset096-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elias-estupiñan/)](https://www.linkedin.com/in/elias-estupiñan)
+[![Gmail eliaset096](https://img.shields.io/badge/Gmail-eliaset096%40gmail.com-success)](mailto:eliaset096@gmail.com)
+
+
 
 
 ## Insights
