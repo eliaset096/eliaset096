@@ -1,7 +1,6 @@
 # Hello, I'm Elias! 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and technology in general. Here you'll find a variety of projects I've worked on, from web applications to useful scripts. Take a look around and feel free to contact me if you have any questions or suggestions!
-
+Welcome to my GitHub profile! I'm passionate about software development and technology in general.
 ## About me
 
 - 👨‍💻 System Ingineer
