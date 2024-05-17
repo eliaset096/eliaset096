@@ -31,7 +31,7 @@ Feel free to contact me!
 ## Insights
 
 <div align="center" style="display: inline_block">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=eliaset096&show_icons=true&theme=radical">
+<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=eliaset096&show_icons=true&theme=radical"> -->
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliaset096&layout=donut&theme=radical">
 </div>
 
